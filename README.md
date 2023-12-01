@@ -12,7 +12,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 ## Model Performance Analysis:
 Price Prediction Pattern: The model exhibits a linear correlation between actual and predicted flight prices, consistent up to approximately INR 70,000. However, there might be deviations beyond this price range.
 
-![Alt text]([image link](https://github.com/LarryChenCode/flight_fare_prediction_using_pyspark_mllib/blob/main/prediction%20vs%20actual.png))
+<img src="https://github.com/LarryChenCode/flight_fare_prediction_using_pyspark_mllib/blob/main/prediction%20vs%20actual.png" width="700" />
 
 ## Accuracy Metrics:
  - RMSE (Root Mean Square Error): 1520.00 - Indicates a relatively small average prediction error, suggesting good model precision.
