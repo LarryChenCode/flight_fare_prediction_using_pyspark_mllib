@@ -3,8 +3,6 @@
 ## Notebook: 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5691159305297624/1572755136265826/841451422945549/latest.html
 
-## Model Overview:
-
 ## Model Type: Gradient Boosting Regressor
  - Features Used: Airline, Source City, Departure Time, Stops, Arrival Time, Destination City, Class, Duration, Days Left
  - Framework: PySpark’s MLlib
