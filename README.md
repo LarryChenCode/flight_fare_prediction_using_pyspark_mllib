@@ -19,8 +19,8 @@ Price Prediction Pattern: The model exhibits a linear correlation between actual
 
 ## Model Parameters:
  - Best Parameters Identified:
-  - Number of Trees: 60
-  - Number of Features: 3
+   - Number of Trees: 60
+   - Number of Features: 3
 
 ## Conclusion:
 The Gradient Boosting Regressor model shows a high degree of accuracy in predicting flight prices within the considered feature set. The excellent R² score coupled with a low RMSE and MAE reflects the model's effectiveness. While the model's predictions are mostly linear up to a certain price point, a slight deviation for higher-priced flights is noted, suggesting an area for further investigation and potential refinement of the model.
