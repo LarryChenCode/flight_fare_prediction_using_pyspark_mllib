@@ -1,10 +1,10 @@
-# Predicting Flight Prices using Gradient Boosting Regressor with features including airline, source city, departure time, stops, arrival time, destination city, class, duration, and days_left using PySpark’s MLlib
+# Predicting Flight Prices using Gradient Boosting Regressor with features (airline, source city, departure time, stops, arrival time, destination city, class, duration, and days_left) using PySpark’s MLlib
 
 ## Notebook: 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5691159305297624/1572755136265826/841451422945549/latest.html
 
 ## Workflow:
-<img src="" width="700" />
+<img src="https://github.com/LarryChenCode/flight_fare_prediction_using_pyspark_mllib/blob/main/WORKFLOW.png" width="700" />
 
 ## Model Overview:
  - Model Type: Gradient Boosting Regressor
